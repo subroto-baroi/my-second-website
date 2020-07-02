@@ -1,1 +1,23 @@
-body{background-color: red;}
+body{background-color:#ddd;
+    background-repeat: no-repeat;
+    width: 960px;
+    height: 400px;
+    margin: 0px auto;
+    border: 5px solid red;
+
+}
+h1{margin-left: 250px;
+    
+}
+div{
+    width:400px;
+    height:200px;
+    background-color: brown;
+    border: 2px solid wheat;
+    color: azure;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 250px;
+    margin-bottom: 10px;
+}
